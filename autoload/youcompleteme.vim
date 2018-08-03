@@ -868,3 +868,4 @@ endfunction
 " This is basic vim plugin boilerplate
 let &cpo = s:save_cpo
 unlet s:save_cpo
+"LD_LIBRARY_PATH=/afs/cern.ch/sw/lcg/app/releases/ROOT/6.06.00/x86_64-slc6-gcc49-opt/root/lib:/afs/cern.ch/sw/lcg/external/gcc/4.9/x86_64-slc6-gcc49-opt/lib64:/afs/cern.ch/sw/lcg/external/gcc/4.9/x86_64-slc6-gcc49-opt/lib64 
